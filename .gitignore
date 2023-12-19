@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+#protecting my APIS 
+.env
+
 # testing
 /coverage
 
